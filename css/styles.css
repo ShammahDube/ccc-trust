@@ -76,7 +76,7 @@ h6 {
 }
 
 .p-large {
-	font-size: 1.125rem;
+	font-size: 1.5rem;
 	line-height: 1.75rem;
 }
 
@@ -160,9 +160,9 @@ a:hover {
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.5rem 2.5rem 1.5rem 2.5rem;
-	border: 1px solid #026cfe;
+	border: 3px solid #ffc400;
 	border-radius: 32px;
-	background-color: #026cfe;
+	background-color: #ffc400;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -172,9 +172,9 @@ a:hover {
 }
 
 .btn-solid-lg:hover {
-	border: 1px solid #026cfe;
+	border: 3px solid #ffc400;
 	background-color: transparent;
-	color: #026cfe;
+	color: #ffc400;
 	text-decoration: none;
 }
 
@@ -420,9 +420,9 @@ input[type='checkbox'] {
 /*     Navigation     */
 /**********************/
 .navbar {
-	background-color: #1b1e7b;
+	background-color: #0393DE;
 	font-weight: 600;
-	font-size: 0.875rem;
+	font-size: 1.5rem;
 	line-height: 0.875rem;
 	box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.025);
 }
@@ -455,7 +455,7 @@ input[type='checkbox'] {
 	padding-left: 1rem;
 	overflow-y: auto;
 	visibility: hidden;
-	background-color: #1b1e7b;
+	background-color: #0393DE;
 	transition: visibility .3s ease-in-out, -webkit-transform .3s ease-in-out;
 	transition: transform .3s ease-in-out, visibility .3s ease-in-out;
 	transition: transform .3s ease-in-out, visibility .3s ease-in-out, -webkit-transform .3s ease-in-out;
@@ -475,7 +475,7 @@ input[type='checkbox'] {
 .navbar .nav-item .nav-link {
 	padding-top: 0.625rem;
 	padding-bottom: 0.625rem;
-	color: #c5c3f0;
+	color: #f0eff8;
 	text-decoration: none;
 	transition: all 0.2s ease;
 }
@@ -530,11 +530,11 @@ input[type='checkbox'] {
 	overflow: hidden;
 	padding-top: 6rem;
 	padding-bottom: 17rem;
-	background: #1b1e7b;
+	background: #0393DE;
 }
 
 .header .text-container {
-	margin-bottom: 4rem;
+	margin-bottom: 5rem;
 	text-align: center;
 }
 
@@ -1039,8 +1039,8 @@ a:hover.back-to-top {
 	
 	/* General Styles */
 	.h1-large {
-		font-size: 2.625rem;
-		line-height: 3.25rem;
+		font-size: 3.5rem;
+		line-height: 3.9rem;
 	}
 
 	.h2-heading {
@@ -1072,7 +1072,7 @@ a:hover.back-to-top {
 	.navbar.top-nav-collapse {
 		padding-top: 0.625rem;
 		padding-bottom: 0.625rem;
-		background-color: #1b1e7b;
+		background-color: #0393DE;
 		box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.025);
 	}
 
