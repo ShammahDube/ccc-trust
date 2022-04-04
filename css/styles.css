@@ -760,7 +760,7 @@ input[type='checkbox'] {
 /*********************/
 .basic-3 {
 	padding-top: 4.5rem;
-	padding-bottom: 4.5rem;
+	padding-bottom: 0rem;
 }
 
 .basic-3 h2 {
@@ -789,7 +789,7 @@ input[type='checkbox'] {
 /*     Features     */
 /********************/
 .basic-4 {
-	padding-top: 4.5rem;
+	padding-top: 1.5rem;
 	padding-bottom: 2.5rem;
 }
 
@@ -803,6 +803,7 @@ input[type='checkbox'] {
 	margin-bottom: 3rem;
 	padding: 2.5rem 1rem 1.125rem 1rem;
 	border-radius: 10px;
+	height: 300px !important;
 }
 
 
