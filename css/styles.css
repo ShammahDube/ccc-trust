@@ -911,7 +911,7 @@ input[type='checkbox'] {
 }
 
 .form-1 .p-heading {
-	margin-bottom: 3.5rem;
+	margin-bottom: 1.5rem;
 }
 
 .form-1 .form-container {
@@ -947,7 +947,7 @@ input[type='checkbox'] {
 }
 
 .footer .fa-stack .fa-stack-1x {
-    color: #1b1e7b;
+    color: #026cfe;
 	transition: all 0.2s ease;
 }
 
@@ -961,7 +961,7 @@ input[type='checkbox'] {
 }
 
 .footer .fa-stack:hover .fa-stack-2x {
-    color: #1b1e7b;
+    color: #026cfe;
 }
 
 
